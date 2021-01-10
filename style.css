@@ -21,6 +21,7 @@ body {
 /* Canvas */
 canvas {
     border: 2px solid rgba(230, 114, 5, 0.871);
+    background-color: #fff;
 }
 
 .toolbox {
