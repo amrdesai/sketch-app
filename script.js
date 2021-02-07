@@ -1,3 +1,6 @@
+// Strict mode
+'use strict';
+
 // Variables
 const canvas = document.getElementById('canvas');
 const increaseBtn = document.getElementById('increase');
