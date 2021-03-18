@@ -5,4 +5,3 @@
 ## About
 - Sketch board created using Canvas API
 - User can increase or decrease the size of the brush
-
